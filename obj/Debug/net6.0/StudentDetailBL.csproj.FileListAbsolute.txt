@@ -1,0 +1,11 @@
+C:\Users\harsh\source\repos\StudentDetailBL\bin\Debug\net6.0\StudentDetailBL.deps.json
+C:\Users\harsh\source\repos\StudentDetailBL\bin\Debug\net6.0\StudentDetailBL.dll
+C:\Users\harsh\source\repos\StudentDetailBL\bin\Debug\net6.0\StudentDetailBL.pdb
+C:\Users\harsh\source\repos\StudentDetailBL\obj\Debug\net6.0\StudentDetailBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\StudentDetailBL\obj\Debug\net6.0\StudentDetailBL.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\StudentDetailBL\obj\Debug\net6.0\StudentDetailBL.AssemblyInfo.cs
+C:\Users\harsh\source\repos\StudentDetailBL\obj\Debug\net6.0\StudentDetailBL.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\StudentDetailBL\obj\Debug\net6.0\StudentDetailBL.dll
+C:\Users\harsh\source\repos\StudentDetailBL\obj\Debug\net6.0\refint\StudentDetailBL.dll
+C:\Users\harsh\source\repos\StudentDetailBL\obj\Debug\net6.0\StudentDetailBL.pdb
+C:\Users\harsh\source\repos\StudentDetailBL\obj\Debug\net6.0\ref\StudentDetailBL.dll
